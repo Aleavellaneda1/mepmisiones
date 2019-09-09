@@ -1,2 +1,0 @@
-# mepmisiones
-GitHub Pages
